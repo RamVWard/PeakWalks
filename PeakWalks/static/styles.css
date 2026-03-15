@@ -1,0 +1,48 @@
+html, body {
+    margin: 0;
+    height: 100vh;
+}
+body{
+    overflow: hidden;
+    background-color:#a6d189 ;
+    color:#232634;
+    font-family: Arial, sans-serif;
+}
+* {
+  box-sizing: border-box;
+}
+body:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+#left{
+    width: 80%;
+}
+iframe{
+    width:100%;
+    height:100vh;
+}
+#right{
+    margin:10px;
+}
+.column{
+    float: left;
+    height:100%;
+
+}
+.poi-select{
+}
+
+.poi-select p, .poi-select form{
+    display: inline-block;
+    margin: 5px;
+    vertical-align: middle;
+}
+.poi-select p{
+    width: 5rem;
+}
+.poi-button{
+    width: 2rem;
+    height: 2rem;
+}

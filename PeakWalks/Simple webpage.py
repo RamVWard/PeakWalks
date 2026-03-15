@@ -1,0 +1,82 @@
+# Importing flask module in the project is mandatory
+# An object of Flask class is our WSGI application.
+from flask import Flask, render_template, request
+import folium
+import requests
+
+# Flask constructor takes the name of
+# current module (__name__) as argument.
+app = Flask(__name__)
+
+# The route() function of the Flask class is a decorator,
+# which tells the application which URL should call
+# the associated function.
+@app.route("/", methods=['GET', 'POST'])
+def main():
+    map = iframe()
+    return render_template('home.html', iframe=map)
+
+def iframe():
+    """Embed a map as an iframe on a page."""
+    m = folium.Map(location=[53.34327329800715, -1.777631461025655], zoom_start=10)
+
+    # set the iframe width and height
+    m.get_root().width = "80%"
+    m.get_root().height = "100%"
+
+    pubsgroup = folium.FeatureGroup(name="PubsGroup", control=True).add_to(m)
+    #folium.GeoJson("geodata/pubnodes.geojson").add_to(pubsgroup)
+    folium.Marker([53.34, -1.77]).add_to(pubsgroup)
+
+    folium.LayerControl().add_to(m)
+
+    pubs, cafes, viewpoints, historic, villages, other = index()
+
+    if pubs:
+        #get all pubs and add to the map
+        folium.Marker([53.33, -1.77]).add_to(m)
+
+    map = m.get_root()._repr_html_()
+    return map
+
+def index():
+    if request.form.get("poi-pubs"):
+        pubs = True
+    else:
+        pubs = False
+
+    if request.form.get("poi-cafes"):
+        cafes = True
+    else:
+        cafes = False
+
+    if request.form.get("poi-viewpoints"):
+        viewpoints = True
+    else :
+        viewpoints = False
+
+    if request.form.get("poi-historic"):
+        historic = True
+    else:
+        historic = False
+
+    if request.form.get("poi-villages"):
+        villages = True
+    else:
+        villages = False
+
+    if request.form.get("poi-other"):
+        other = True
+    else:
+        other = False
+
+    return pubs, cafes, viewpoints, historic, villages, other
+
+
+
+# main driver function
+if __name__ == '__main__':
+
+    # run() method of Flask class runs the application
+    # on the local development server.
+    app.run()
