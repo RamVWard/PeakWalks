@@ -17,25 +17,27 @@
 
             <div class="settings">
                 <h3>Points of Interest</h3>
-                <form>
+                <form class="poi-select" action="/submit" method="post">
+
                     <label>pubs</label>
-                    <input type="checkbox" name="poi-pubs" id="poi-pubs" value="poi-pubs"/>
+                    <input type="checkbox" name="poi-pubs" id="poi-pubs" value="poi-pubs"/><br>
 
                     <label>cafes</label>
-                    <input type="checkbox" name="poi-cafes"/>
+                    <input type="checkbox" name="poi-cafes"/><br>
 
                     <label>viewpoints</label>
-                    <input type="checkbox" name="poi-viewpoints"/>
+                    <input type="checkbox" name="poi-viewpoints"/><br>
 
                     <label>historic</label>
-                    <input type="checkbox" name="poi-historic"/>
+                    <input type="checkbox" name="poi-historic"/><br>
 
                     <label>villages</label>
-                    <input type="checkbox" name="poi-villages"/>
+                    <input type="checkbox" name="poi-villages"/><br>
 
                     <label>other</label>
-                    <input type="checkbox" name="poi-other"/>
+                    <input type="checkbox" name="poi-other"/><br>
 
+                    <input type="submit" value="Submit">
                 </form>
             </div>
         </div>

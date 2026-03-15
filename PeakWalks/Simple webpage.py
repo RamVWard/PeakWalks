@@ -25,8 +25,8 @@ def iframe():
     m.get_root().height = "100%"
 
     pubsgroup = folium.FeatureGroup(name="PubsGroup", control=True).add_to(m)
-    #folium.GeoJson("geodata/pubnodes.geojson").add_to(pubsgroup)
-    folium.Marker([53.34, -1.77]).add_to(pubsgroup)
+    folium.GeoJson("https://raw.githubusercontent.com/RamVWard/PeakWalks/refs/heads/master/PeakWalks/geodata/pubnodes.geojson").add_to(pubsgroup)
+
 
     folium.LayerControl().add_to(m)
 
@@ -72,6 +72,11 @@ def index():
 
     return pubs, cafes, viewpoints, historic, villages, other
 
+@app.route("/submit", methods=['POST'])
+def submit():
+    pubs = request.form["poi-pubs"]
+
+    return pubs
 
 
 # main driver function

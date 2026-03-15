@@ -17,7 +17,7 @@ body:after{
     clear: both;
 }
 #left{
-    width: 80%;
+    width: 70%;
 }
 iframe{
     width:100%;
@@ -34,12 +34,12 @@ iframe{
 .poi-select{
 }
 
-.poi-select p, .poi-select form{
+.poi-select label, .poi-select input{
     display: inline-block;
     margin: 5px;
     vertical-align: middle;
 }
-.poi-select p{
+.poi-select label{
     width: 5rem;
 }
 .poi-button{
