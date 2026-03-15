@@ -1,6 +1,6 @@
 # Importing flask module in the project is mandatory
 # An object of Flask class is our WSGI application.
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, redirect, url_for
 import folium
 import requests
 
@@ -24,7 +24,7 @@ def iframe():
     m.get_root().width = "80%"
     m.get_root().height = "100%"
 
-    pubsgroup = folium.FeatureGroup(name="PubsGroup", control=True).add_to(m)
+    pubsgroup = folium.FeatureGroup(name="PubsGroup", control=False)
     folium.GeoJson("https://raw.githubusercontent.com/RamVWard/PeakWalks/refs/heads/master/PeakWalks/geodata/pubnodes.geojson").add_to(pubsgroup)
 
 
@@ -34,49 +34,24 @@ def iframe():
 
     if pubs:
         #get all pubs and add to the map
-        folium.Marker([53.33, -1.77]).add_to(m)
+        pubsgroup.add_to(m)
 
     map = m.get_root()._repr_html_()
     return map
 
 def index():
-    if request.form.get("poi-pubs"):
-        pubs = True
-    else:
-        pubs = False
-
-    if request.form.get("poi-cafes"):
-        cafes = True
-    else:
-        cafes = False
-
-    if request.form.get("poi-viewpoints"):
-        viewpoints = True
-    else :
-        viewpoints = False
-
-    if request.form.get("poi-historic"):
-        historic = True
-    else:
-        historic = False
-
-    if request.form.get("poi-villages"):
-        villages = True
-    else:
-        villages = False
-
-    if request.form.get("poi-other"):
-        other = True
-    else:
-        other = False
+    pubs = request.form.get("poi-pubs")
+    cafes = request.form.get("poi-cafes")
+    viewpoints = request.form.get("poi-viewpoints")
+    historic = request.form.get("poi-historic")
+    villages = request.form.get("poi-villages")
+    other = request.form.get("poi-other")
 
     return pubs, cafes, viewpoints, historic, villages, other
 
 @app.route("/submit", methods=['POST'])
 def submit():
-    pubs = request.form["poi-pubs"]
-
-    return pubs
+    redirect(url_for('main'))
 
 
 # main driver function

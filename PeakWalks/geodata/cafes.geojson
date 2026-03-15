@@ -1,0 +1,3981 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-03-15T13:29:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/110234092",
+        "addr:city": "Hope Valley",
+        "addr:postcode": "S33 8WR",
+        "addr:street": "Millbridge",
+        "addr:suburb": "Castleton",
+        "amenity": "cafe",
+        "building": "house",
+        "email": "info@ramblersrest-castleton.co.uk",
+        "fhrs:id": "1260429",
+        "guest_house": "bed_and_breakfast",
+        "name": "Ramblers Rest",
+        "nohousenumber": "yes",
+        "phone": "+44 1433 620125",
+        "source": "survey;Bing",
+        "source:addr": "FHRS Open Data",
+        "tourism": "guest_house",
+        "website": "https://ramblersrest-castleton.co.uk/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7755313,
+          53.3443153
+        ]
+      },
+      "id": "way/110234092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/114322401",
+        "addr:city": "Bakewell",
+        "addr:postcode": "DE45 1NL",
+        "addr:village": "Monsal Head",
+        "amenity": "cafe",
+        "building": "yes",
+        "fhrs:id": "1627124",
+        "name": "Hobb's Cafe and Craft Centre",
+        "source": "Bing;survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7248481,
+          53.2404662
+        ]
+      },
+      "id": "way/114322401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/117990928",
+        "addr:city": "Buxton",
+        "addr:postcode": "SK17 9TB",
+        "addr:street": "Bakewell Road",
+        "amenity": "cafe",
+        "brand": "Morrisons",
+        "brand:wikidata": "Q922344",
+        "cuisine": "coffee_shop",
+        "name": "Morrisons Cafe",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9032492,
+          53.2536819
+        ]
+      },
+      "id": "way/117990928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/118035636",
+        "amenity": "cafe",
+        "building": "yes",
+        "gluten_free": "yes",
+        "name": "Peak View Cafe",
+        "old_name": "Stonyway Bar",
+        "source": "survey",
+        "source:building": "Bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0049303,
+          53.2501273
+        ]
+      },
+      "id": "way/118035636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/123873505",
+        "amenity": "cafe",
+        "building": "retail",
+        "name": "The Penny Pot",
+        "outdoor_seating": "yes",
+        "website": "https://pennypotcafe.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8163902,
+          53.3647993
+        ]
+      },
+      "id": "way/123873505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/135634556",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Pool Cafe",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6530906,
+          53.3287838
+        ]
+      },
+      "id": "way/135634556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152198639",
+        "addr:city": "Hope Valley",
+        "addr:postcode": "S32 2JA",
+        "addr:street": "Station Approach",
+        "addr:suburb": "Grindleford",
+        "amenity": "cafe",
+        "building": "public",
+        "fhrs:id": "1627041",
+        "name": "Grindleford Station Cafe",
+        "source": "Bing Trace, Local Knowledge",
+        "source:wifi": "node 1650339784",
+        "wifi": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6242958,
+          53.3053194
+        ]
+      },
+      "id": "way/152198639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/155642957",
+        "amenity": "cafe",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7364456,
+          53.0655306
+        ]
+      },
+      "id": "way/155642957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/158416009",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "The Hollow Dining Rooms",
+        "phone": "+44 1629 640746",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7153657,
+          53.2423689
+        ]
+      },
+      "id": "way/158416009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/166285378",
+        "addr:city": "Ashbourne",
+        "addr:postcode": "DE6 2AG",
+        "addr:street": "Wettonmill Road",
+        "addr:village": "Wetton",
+        "amenity": "cafe",
+        "building": "yes",
+        "fhrs:id": "1259913",
+        "name": "Wetton Mill Cafe",
+        "operator": "National Trust",
+        "ref:GB:uprn": "10002953716",
+        "source:addr": "FHRS Open Data",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8587259,
+          53.1021162
+        ]
+      },
+      "id": "way/166285378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/172149046",
+        "addr:postcode": "SK17 8DL",
+        "addr:street": "Buxton Road",
+        "amenity": "cafe",
+        "building": "yes",
+        "fhrs:id": "1258642",
+        "name": "Katy's Diner",
+        "note": "In a portakabin/container",
+        "source": "Bing;survey",
+        "source:addr": "FHRS Open Data",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8892729,
+          53.2922095
+        ]
+      },
+      "id": "way/172149046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/172149052",
+        "amenity": "cafe",
+        "building": "yes",
+        "check_date": "2026-03-07",
+        "food": "yes",
+        "indoor_seating": "yes",
+        "name": "The Olive Tree",
+        "opening_hours": "10:00-16:00; Fr 10:00-20:00",
+        "outdoor_seating": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8652983,
+          53.3232251
+        ]
+      },
+      "id": "way/172149052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/177023983",
+        "addr:city": "Ashbourne",
+        "addr:county": "Derbyshire",
+        "addr:housename": "The Old Coach House",
+        "addr:postcode": "DE6 1RA",
+        "addr:street": "The Street",
+        "addr:village": "Tissington",
+        "amenity": "cafe",
+        "building": "yes",
+        "fhrs:id": "1699035",
+        "name": "Herbert's Fine English Tea Rooms",
+        "source:addr": "FHRS Open Data",
+        "website": "https://www.herbertstearooms.co.uk/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7391588,
+          53.0672713
+        ]
+      },
+      "id": "way/177023983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/202423026",
+        "amenity": "cafe",
+        "building": "yes",
+        "check_date:opening_hours": "2025-03-20",
+        "name:signed": "no",
+        "opening_hours:signed": "no",
+        "source": "Bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9399969,
+          53.4469175
+        ]
+      },
+      "id": "way/202423026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/254952364",
+        "addr:city": "Bakewell",
+        "addr:postcode": "DE45 1RY",
+        "addr:street": "Church Street",
+        "addr:village": "Baslow",
+        "amenity": "cafe",
+        "fhrs:id": "1626145",
+        "name": "Charlie's Cafe and Bistro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.623666,
+          53.248007
+        ]
+      },
+      "id": "node/254952364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/254952572",
+        "addr:city": "Bakewell",
+        "addr:postcode": "DE45 1SR",
+        "addr:street": "Nether End",
+        "addr:village": "Baslow",
+        "amenity": "cafe",
+        "fhrs:id": "1699015",
+        "name": "Cafe on the Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6136065,
+          53.2456766
+        ]
+      },
+      "id": "node/254952572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/256289533",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "The Vines",
+        "opening_hours": "Mo-Sa 09:00-17:00; Su 10:00-16:30",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6134267,
+          53.210925
+        ]
+      },
+      "id": "way/256289533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/313153361",
+        "addr:postcode": "SK17 8RW",
+        "addr:village": "Wardlow Mires",
+        "amenity": "cafe",
+        "building": "yes",
+        "fhrs:id": "1626143",
+        "name": "The Yondermann Cafe",
+        "phone": "+44 1298 873056",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7293386,
+          53.2767254
+        ]
+      },
+      "id": "way/313153361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/323819194",
+        "addr:city": "Bakewell",
+        "addr:housename": "The Workshop",
+        "addr:postcode": "DE45 1US",
+        "addr:street": "Moor Lane",
+        "addr:village": "Youlgrave",
+        "amenity": "cafe",
+        "building": "yes",
+        "fhrs:id": "1626366",
+        "name": "Peak Feast",
+        "note": "Approx location",
+        "opening_hours": "Mo-Fr 8:00-17:00; Sa 8:00-13:00; Su 10:00-16:00",
+        "shop": "food",
+        "website": "https://peakfeast.co.uk/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6873191,
+          53.1754833
+        ]
+      },
+      "id": "way/323819194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/324308065",
+        "amenity": "cafe",
+        "changing_table": "yes",
+        "name": "Timber Yard Café",
+        "opening_hours": "Mo-Su 10:00-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0583261,
+          53.3401246
+        ]
+      },
+      "id": "node/324308065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/338790456",
+        "addr:city": "Hope Valley",
+        "addr:postcode": "S33 6ZF",
+        "addr:street": "Edale Road",
+        "addr:suburb": "Hope",
+        "amenity": "cafe",
+        "building": "yes",
+        "check_date": "2026-03-08",
+        "fhrs:id": "1258684",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Cafe Adventure",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "source:addr": "FHRS Open Data",
+        "website": "https://cargocollective.com/cafeadventure",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7423268,
+          53.3483847
+        ]
+      },
+      "id": "way/338790456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/360856438",
+        "amenity": "cafe",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7828036,
+          53.17085
+        ]
+      },
+      "id": "node/360856438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/360856443",
+        "amenity": "cafe",
+        "name": "Hartington",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7779183,
+          53.1472095
+        ]
+      },
+      "id": "node/360856443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/391511541",
+        "addr:city": "Hope Valley",
+        "addr:country": "GB",
+        "addr:postcode": "S33 7ZD",
+        "addr:street": "Grindsbrook Booth",
+        "addr:suburb": "Edale",
+        "amenity": "cafe",
+        "check_date": "2024-06-03",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Newfold Cafe",
+        "outdoor_seating": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8174005,
+          53.370086
+        ]
+      },
+      "id": "node/391511541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/460020605",
+        "amenity": "cafe",
+        "name": "The Moorland Cafe",
+        "opening_hours": "We-Sa 10:00-18:00; Su 10:00-16:30; Mo,Tu off",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8686364,
+          53.1814789
+        ]
+      },
+      "id": "node/460020605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/460020606",
+        "amenity": "cafe",
+        "name": "Manifold Tea Room",
+        "note": "? moribund",
+        "opening_hours": "We-Sa 12:00-14:00,18:00-20:00",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.868408,
+          53.1812405
+        ]
+      },
+      "id": "node/460020606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/529404124",
+        "addr:city": "Bakewell",
+        "addr:postcode": "DE45 1QB",
+        "addr:street": "Church Street",
+        "addr:village": "Ashford in the Water",
+        "amenity": "cafe",
+        "fhrs:id": "1626347",
+        "name": "Aisseford Tea Rooms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7083347,
+          53.2241954
+        ]
+      },
+      "id": "node/529404124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/655618081",
+        "addr:city": "Hope Valley",
+        "addr:postcode": "S32 5RB",
+        "addr:street": "The Square",
+        "addr:suburb": "Eyam",
+        "amenity": "cafe",
+        "fhrs:id": "1626147",
+        "name": "Eyam Tearooms",
+        "source:postcode": "FHRS Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6704878,
+          53.2839958
+        ]
+      },
+      "id": "node/655618081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/663894239",
+        "addr:city": "Hope Valley",
+        "addr:country": "GB",
+        "addr:housename": "The Round Building",
+        "addr:postcode": "S32 1BA",
+        "addr:suburb": "Hathersage",
+        "amenity": "cafe",
+        "capacity": "50",
+        "email": "hello@riversidekitchen.uk",
+        "highchair": "yes",
+        "internet_access": "no",
+        "name": "Riverside Kitchen @ David Mellor",
+        "opening_hours": "Mo-Sa 10:00-16:30; Su 11:00-16:30",
+        "outdoor_seating": "yes",
+        "phone": "+44 1433 650220",
+        "reservation": "no",
+        "toilets": "yes",
+        "website": "https://riversidekitchen.uk/",
+        "website:menu": "https://riversidekitchen.uk/menu",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.651538,
+          53.3250933
+        ]
+      },
+      "id": "node/663894239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/665043805",
+        "addr:city": "High Peak",
+        "addr:country": "GB",
+        "addr:housenumber": "18",
+        "addr:postcode": "SK22 1BP",
+        "addr:street": "Station Road",
+        "addr:suburb": "Birch Vale",
+        "amenity": "cafe",
+        "building": "yes",
+        "contact:facebook": "thesettvalleycafe",
+        "cuisine": "coffee_shop;breakfast;sandwich",
+        "diet:gluten_free": "yes",
+        "diet:local": "yes",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "fhrs:id": "1258770",
+        "name": "Sett Valley Cafe",
+        "opening_hours": "Mo-Su 10:00-14:00",
+        "outdoor_seating": "yes",
+        "phone": "+44 1663 745548",
+        "ref:GB:uprn": "10010745432",
+        "source:addr": "FHRS Open Data",
+        "website": "https://settvalleycafe.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9700749,
+          53.3785064
+        ]
+      },
+      "id": "way/665043805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/671305201",
+        "amenity": "cafe",
+        "name": "The Tea Junction",
+        "source": "GPS survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8467783,
+          53.1309587
+        ]
+      },
+      "id": "node/671305201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/674953675",
+        "amenity": "cafe",
+        "name": "The Wild Kettle Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6947074,
+          53.34072
+        ]
+      },
+      "id": "node/674953675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/759683585",
+        "addr:city": "Buxton",
+        "addr:housenumber": "2-4",
+        "addr:postcode": "SK17 6JZ",
+        "addr:street": "South Avenue",
+        "amenity": "cafe",
+        "building": "yes",
+        "fhrs:id": "1855857",
+        "name": "Happy Hearts Play Cafe",
+        "old_name": "Brick Corner Cafe",
+        "outdoor_seating": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9134285,
+          53.255443
+        ]
+      },
+      "id": "way/759683585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/760439798",
+        "amenity": "cafe",
+        "name": "Elliotts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6564436,
+          53.3297958
+        ]
+      },
+      "id": "node/760439798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/767262018",
+        "addr:city": "Buxton",
+        "addr:postcode": "SK17 8LA",
+        "addr:street": "Bank Square",
+        "addr:village": "Tideswell",
+        "amenity": "cafe",
+        "cafe": "yes",
+        "fhrs:id": "1680399",
+        "name": "Tideswell Lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7738238,
+          53.278046
+        ]
+      },
+      "id": "node/767262018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/865398383",
+        "addr:city": "Hope Valley",
+        "addr:postcode": "S32 2JF",
+        "addr:street": "Main Road",
+        "addr:suburb": "Grindleford",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "ele": "126.78",
+        "fhrs:id": "1626521",
+        "name": "Grindleford Community Shop",
+        "not:addr:postcode": "S32 2HE",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6322919,
+          53.2975909
+        ]
+      },
+      "id": "node/865398383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/886680581",
+        "addr:city": "Hope Valley",
+        "addr:postcode": "S33 8WP",
+        "addr:street": "Buxton Road",
+        "addr:suburb": "Castleton",
+        "addr:town": "Castleton",
+        "amenity": "cafe",
+        "email": "enquiries@blueberryfood.co.uk",
+        "fhrs:id": "1258737",
+        "name": "Blueberry Cafe",
+        "opening_hours": "Mo-Su 10:00-16:00",
+        "outdoor_seating": "yes",
+        "phone": "+44 1433 620 020",
+        "website": "https://www.blueberryfood.co.uk/castleton-visitor-centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7777304,
+          53.3434575
+        ]
+      },
+      "id": "node/886680581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/961099924",
+        "amenity": "cafe",
+        "building": "shed",
+        "name": "The Magic Wood Cafe",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7152573,
+          53.5212042
+        ]
+      },
+      "id": "way/961099924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/961712997",
+        "amenity": "cafe",
+        "building": "retail",
+        "name": "Riverside Cafe",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0118916,
+          53.1912578
+        ]
+      },
+      "id": "way/961712997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/973849131",
+        "addr:city": "Rainow",
+        "addr:postcode": "SK10 5RP",
+        "addr:street": "Oakenbank Lane",
+        "amenity": "cafe",
+        "building": "yes",
+        "fhrs:id": "1083665",
+        "name": "Farm Made Tearooms",
+        "outdoor_seating": "yes",
+        "ref:GB:uprn": "10094315434",
+        "source:addr": "FHRS Open Data",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.081256,
+          53.2957041
+        ]
+      },
+      "id": "way/973849131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/983811408",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Kickback Coffee",
+        "opening_hours": "Mo-Fr 10:00-16:00 Sa-Su 09:00-16:00",
+        "outdoor_seating": "yes",
+        "website": "https://kickbackcoffee.co.uk/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0737414,
+          53.3138761
+        ]
+      },
+      "id": "way/983811408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/992657198",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "coffee_shop",
+        "source": "Bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6110754,
+          53.2283802
+        ]
+      },
+      "id": "way/992657198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1010504944",
+        "addr:postcode": "ST13 8TY",
+        "addr:street": "Roach Road",
+        "amenity": "cafe",
+        "cuisine": "tea;regional;cake;sandwich;coffee_shop;local",
+        "diet:gluten_free": "yes",
+        "diet:vegetarian": "yes",
+        "email": "diane@roachescottages.co.uk",
+        "name": "Roaches Tea Rooms",
+        "opening_hours": "Mo-Su 09:00-17:00",
+        "phone": "+441538 300345",
+        "toilets": "yes",
+        "toilets:wheelchair": "yes",
+        "website": "http://www.roachestearooms.co.uk",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9916035,
+          53.1485218
+        ]
+      },
+      "id": "node/1010504944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1013521493",
+        "amenity": "cafe",
+        "building": "yes",
+        "takeaway": "only",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.611124,
+          53.2285174
+        ]
+      },
+      "id": "way/1013521493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1071131653",
+        "addr:postcode": "SK10 5SE",
+        "addr:street": "Shrigley Road",
+        "amenity": "cafe",
+        "building": "yes",
+        "fhrs:id": "891509",
+        "name": "The Coffee Tavern",
+        "outdoor_seating": "yes",
+        "phone": "+44 1625 576370",
+        "source:addr": "FHRS Open Data",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0855296,
+          53.322974
+        ]
+      },
+      "id": "way/1071131653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1114693623",
+        "addr:city": "Bakewell",
+        "addr:postcode": "DE45 1PH",
+        "addr:street": "Jap Lane",
+        "addr:village": "Edensor",
+        "amenity": "cafe",
+        "fhrs:id": "1626270",
+        "name": "Edensor Tea Cottage",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6250773,
+          53.2257514
+        ]
+      },
+      "id": "node/1114693623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1221527609",
+        "addr:city": "High Peak",
+        "addr:country": "GB",
+        "addr:housenumber": "50",
+        "addr:postcode": "SK22 4AA",
+        "addr:street": "Market Street",
+        "addr:suburb": "New Mills",
+        "amenity": "cafe",
+        "building": "retail",
+        "cuisine": "coffee_shop",
+        "fhrs:id": "1259185",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Revive",
+        "opening_hours": "Mo,Tu,Fr 09:00-14:00; We,Th,Sa,Su off",
+        "ref:GB:uprn": "10010749851",
+        "source:addr": "FHRS Open Data",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0019488,
+          53.3664705
+        ]
+      },
+      "id": "way/1221527609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1222240533",
+        "addr:city": "High Peak",
+        "addr:country": "GB",
+        "addr:housenumber": "41",
+        "addr:postcode": "SK22 4AA",
+        "addr:street": "Market Street",
+        "addr:suburb": "New Mills",
+        "amenity": "cafe",
+        "building": "yes",
+        "fhrs:id": "1259019",
+        "name": "Gioia Mia",
+        "opening_hours": "Mo-Sa 09:00-17:00; Su 09:00-16:00",
+        "source:addr": "FHRS Open Data",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0016101,
+          53.366278
+        ]
+      },
+      "id": "way/1222240533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1230089342",
+        "addr:city": "Buxton",
+        "addr:country": "GB",
+        "addr:housenumber": "85",
+        "addr:postcode": "SK17 6BP",
+        "addr:street": "Spring Gardens",
+        "amenity": "cafe",
+        "brand": "Costa",
+        "brand:wikidata": "Q608845",
+        "brand:wikipedia": "en:Costa Coffee",
+        "contact:tripadvisor": "https://www.tripadvisor.com/Restaurant_Review-g190756-d5263709-Reviews-or15-Costa_Coffee_Buxton-Buxton_Derbyshire_England.html",
+        "cuisine": "coffee_shop",
+        "drive_through": "no",
+        "fhrs:id": "1855855",
+        "name": "Costa",
+        "old_name": "KFC",
+        "opening_hours": "Mo-Fr 07:00-17:30; Sa 07:00-18:00; Su 08:00-17:00",
+        "takeaway": "yes",
+        "website": "https://www.costa.co.uk/stores/buxton",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9092491,
+          53.2595273
+        ]
+      },
+      "id": "way/1230089342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1234441063",
+        "addr:city": "Buxton",
+        "addr:housenumber": "73",
+        "addr:postcode": "SK17 6BJ",
+        "addr:street": "Spring Gardens",
+        "amenity": "cafe",
+        "area": "yes",
+        "brand": "Coffee#1",
+        "brand:wikidata": "Q22032058",
+        "cuisine": "coffee_shop",
+        "fhrs:id": "1502351",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Coffee#1",
+        "opening_hours": "Mo-Sa 07:30-18:00; Su 09:00-17:00",
+        "outdoor_seating": "yes",
+        "phone": "+44 1298 767542",
+        "takeaway": "yes",
+        "toilets": "yes",
+        "website": "https://www.coffee1.co.uk/locations/buxton/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9099042,
+          53.2594679
+        ]
+      },
+      "id": "way/1234441063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1260595682",
+        "amenity": "cafe",
+        "name": "The Cinnamon Bear Coffee Shop",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7749989,
+          53.3436321
+        ]
+      },
+      "id": "node/1260595682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1286833856",
+        "addr:city": "Sheffield",
+        "addr:country": "GB",
+        "addr:housename": "Woodfall House",
+        "addr:postcode": "S6 6LB",
+        "addr:street": "Woodfall Lane",
+        "addr:village": "Bradfield",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "fhrs:id": "505655",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Flask End Cafe",
+        "source": "survey",
+        "twitter": "FlaskEnd",
+        "website": "http://www.flaskend.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6047796,
+          53.4240512
+        ]
+      },
+      "id": "node/1286833856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1329627651",
+        "amenity": "cafe",
+        "name": "Blackwell Mill Tuck Shop",
+        "seasonal": "summer",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8329953,
+          53.2510435
+        ]
+      },
+      "id": "node/1329627651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1336865355",
+        "addr:city": "Glossop",
+        "addr:housenumber": "19-21",
+        "addr:postcode": "SK13 8PN",
+        "addr:street": "High Street East",
+        "amenity": "cafe",
+        "contact:facebook": "https://www.facebook.com/dukesglossop",
+        "cuisine": "breakfast;local",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "fhrs:id": "1258672",
+        "internet_access:fee": "no",
+        "name": "Dukes Coffee Shop",
+        "opening_hours": "Mo 10:00-17:00; Tu-Sa 09:00-17:00; Su off",
+        "outdoor_seating": "yes",
+        "source": "survey",
+        "source:addr": "fhrs opendata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9475462,
+          53.4433711
+        ]
+      },
+      "id": "node/1336865355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1375541883",
+        "addr:city": "Hope Valley",
+        "addr:postcode": "S32 3XH",
+        "addr:street": "Kingsgate",
+        "addr:suburb": "Calver",
+        "amenity": "cafe",
+        "contact:facebook": "https://www.facebook.com/Cafe19atwhites/",
+        "name": "Cafe 19 at Whites"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6424821,
+          53.2697342
+        ]
+      },
+      "id": "node/1375541883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1375546836",
+        "addr:city": "Bakewell",
+        "addr:postcode": "DE45 1JH",
+        "addr:street": "The Square",
+        "addr:village": "Monyash",
+        "amenity": "cafe",
+        "fhrs:id": "1626439",
+        "name": "The Old Smithy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7768902,
+          53.1960318
+        ]
+      },
+      "id": "node/1375546836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1375591993",
+        "addr:city": "Buxton",
+        "addr:postcode": "SK17 0AL",
+        "addr:street": "Market Place",
+        "addr:village": "Hartington",
+        "amenity": "cafe",
+        "name": "Beresford Tea Rooms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8094093,
+          53.140613
+        ]
+      },
+      "id": "node/1375591993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1375760102",
+        "addr:city": "Hope Valley",
+        "addr:postcode": "S33 8WN",
+        "addr:street": "The Island",
+        "addr:suburb": "Castleton",
+        "amenity": "cafe",
+        "cuisine": "tea;cake;fish;sandwich;breakfast;coffee_shop",
+        "diet:vegetarian": "yes",
+        "email": "Lynn@threeroofscafe.com",
+        "fhrs:id": "1258714",
+        "internet_access": "wlan",
+        "name": "The Three Roofs",
+        "opening_hours": "Mo-Fr 09:30-16:00; Sa-Su 09:30-17:00",
+        "phone": "+441433620533",
+        "source": "survey",
+        "source:addr": "FHRS Open Data",
+        "website": "https://www.threeroofscafe.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.777282,
+          53.3430549
+        ]
+      },
+      "id": "node/1375760102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1375760112",
+        "addr:city": "Hope Valley",
+        "addr:postcode": "S33 8WX",
+        "addr:street": "The Stones",
+        "addr:suburb": "Castleton",
+        "amenity": "cafe",
+        "building:levels": "1",
+        "fhrs:id": "1258894",
+        "name": "Dollys Tearooms",
+        "source": "survey",
+        "source:addr": "FHRS Open Data",
+        "source:name": "FHRS Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7785383,
+          53.3418874
+        ]
+      },
+      "id": "node/1375760112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1379836358",
+        "amenity": "cafe",
+        "name": "Longshaw",
+        "opening_hours": "Mo-Su 09:30-17:00",
+        "website": "https://www.nationaltrust.org.uk/visit/peak-district-derbyshire/longshaw-burbage-and-the-eastern-moors",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6045878,
+          53.3156446
+        ]
+      },
+      "id": "node/1379836358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1386042734",
+        "amenity": "cafe",
+        "name": "Cobbles Coffee Shop",
+        "source": "survey",
+        "source:name": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8689035,
+          53.1814628
+        ]
+      },
+      "id": "node/1386042734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1386737575",
+        "amenity": "cafe",
+        "cuisine": "ice_cream",
+        "drink:coffee": "yes",
+        "drink:tea": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.767156,
+          53.1040487
+        ]
+      },
+      "id": "node/1386737575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1415139829",
+        "addr:city": "Tintwistle",
+        "addr:postcode": "SK13 1HP",
+        "addr:street": "Manchester Road",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "tea;coffee_shop;breakfast;burger",
+        "name": "Arnfield Fly Fishery",
+        "outdoor_seating": "yes",
+        "website": "https://www.arnfield-fly-fishery.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9775807,
+          53.473413
+        ]
+      },
+      "id": "way/1415139829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1453002907",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "building": "retail",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 06:00-21:00; Sa 06:30-21:00; Su,PH 07:00-21:00",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9086235,
+          53.3306191
+        ]
+      },
+      "id": "way/1453002907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1465994421",
+        "amenity": "cafe",
+        "building": "yes",
+        "building:levels": "1",
+        "cuisine": "coffee_shop",
+        "description": "A little unstaffed shop in a hut where you can buy hot drinks, ice cream, and cakes",
+        "ice_cream": "yes",
+        "indoor_seating": "no",
+        "name": "Honesty Shop",
+        "opening_hours": "Mo-Su 07:30-19:30",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "takeaway": "yes",
+        "toilets": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8987489,
+          53.1970497
+        ]
+      },
+      "id": "way/1465994421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1487239489",
+        "amenity": "cafe",
+        "name": "Cintras Restaurant and Tea Rooms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6559294,
+          53.3302836
+        ]
+      },
+      "id": "node/1487239489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1487239507",
+        "addr:city": "Hope Valley",
+        "addr:postcode": "S32 1BB",
+        "addr:street": "Main Road",
+        "addr:suburb": "Hathersage",
+        "amenity": "cafe",
+        "description": "Walker's café.",
+        "fhrs:id": "1626248",
+        "gluten_free": "yes",
+        "name": "Outside Café"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.655353,
+          53.3301091
+        ]
+      },
+      "id": "node/1487239507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1666583288",
+        "amenity": "cafe",
+        "check_date": "2025-12-13",
+        "cuisine": "coffee_shop",
+        "name": "Manifold Tea Room"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8058175,
+          53.0526918
+        ]
+      },
+      "id": "node/1666583288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1823281933",
+        "amenity": "cafe",
+        "name": "The Mill Cafe",
+        "opening_hours": "Sa-Su 11:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0108019,
+          53.1916862
+        ]
+      },
+      "id": "node/1823281933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1832423605",
+        "addr:city": "Bakewell",
+        "addr:housenumber": "18",
+        "addr:postcode": "DE45 1EE",
+        "addr:street": "Matlock Street",
+        "amenity": "cafe",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "fhrs:id": "1626132",
+        "indoor_seating": "yes",
+        "name": "The Bakewell Tart Shop",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+44 1629 814 692",
+        "source": "survey",
+        "website": "https://www.bakewelltarts.co.uk/cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6752879,
+          53.2123512
+        ]
+      },
+      "id": "node/1832423605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1863224791",
+        "addr:city": "Bakewell",
+        "addr:postcode": "DE45 1NW",
+        "addr:street": "Hassop Road",
+        "addr:village": "Hassop",
+        "amenity": "cafe",
+        "contact:phone": "+44 1629 815 668",
+        "contact:website": "https://www.hassopstation.co.uk/cafe/",
+        "name": "Hassop Station cafe",
+        "opening_hours": "09:00-17:00",
+        "website": "https://www.hassopstation.co.uk/cafe/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6756917,
+          53.2314529
+        ]
+      },
+      "id": "node/1863224791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2021488310",
+        "addr:postcode": "SK11 0BL",
+        "amenity": "cafe",
+        "fhrs:id": "890348",
+        "name": "Blaze Farm",
+        "website": "https://www.blazefarm.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0388318,
+          53.2048972
+        ]
+      },
+      "id": "node/2021488310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2063838274",
+        "addr:city": "Bakewell",
+        "addr:housenumber": "26",
+        "addr:postcode": "DE45 1WL",
+        "addr:street": "Church Street",
+        "addr:village": "Youlgrave",
+        "amenity": "cafe",
+        "fhrs:id": "1860772",
+        "name": "The Ginger Nut Shop and Tea Room",
+        "old_name": "Holland Butcher;Youlgrave Village Shop and Tea Room",
+        "shop": "convenience",
+        "source": "survey",
+        "website": "https://www.youlgrave.shop/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6855451,
+          53.1756672
+        ]
+      },
+      "id": "node/2063838274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2101784687",
+        "addr:housenumber": "86-88",
+        "addr:postcode": "SK13 1AJ",
+        "addr:street": "Station Road",
+        "air_conditioning": "no",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop;italian;sandwich",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Portobello",
+        "operator": "Portobello",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "source:addr": "FHRS Open Data",
+        "takeaway": "yes",
+        "toilets:access": "customers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9681097,
+          53.4628985
+        ]
+      },
+      "id": "node/2101784687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2132272877",
+        "addr:postcode": "SK13 8BP",
+        "addr:street": "Norfolk Square",
+        "amenity": "cafe",
+        "brand": "Costa",
+        "brand:wikidata": "Q608845",
+        "brand:wikipedia": "en:Costa Coffee",
+        "cuisine": "coffee_shop",
+        "fhrs:id": "1259144",
+        "name": "Costa",
+        "source:addr": "FHRS Open Data",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9503739,
+          53.4434469
+        ]
+      },
+      "id": "node/2132272877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2353455161",
+        "addr:city": "Bakewell",
+        "addr:housenumber": "1",
+        "addr:postcode": "DE45 1EW",
+        "addr:street": "Water Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "fhrs:id": "1626402",
+        "name": "The Honeybun Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6746913,
+          53.2130411
+        ]
+      },
+      "id": "node/2353455161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2379190676",
+        "addr:city": "Hadfield",
+        "addr:housenumber": "105",
+        "addr:postcode": "SK13 1AA",
+        "addr:street": "Station Road",
+        "amenity": "cafe",
+        "check_date": "2026-03-12",
+        "check_date:opening_hours": "2026-03-12",
+        "cuisine": "breakfast;burger;coffee_shop;sandwich",
+        "name": "Alison's Cafe",
+        "opening_hours": "Mo-Fr 08:30-15:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9671306,
+          53.462264
+        ]
+      },
+      "id": "node/2379190676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2462710469",
+        "addr:city": "Hope Valley",
+        "addr:postcode": "S32 1BB",
+        "addr:street": "Besom Lane",
+        "addr:suburb": "Hathersage",
+        "al_fresco": "yes",
+        "amenity": "cafe",
+        "fhrs:id": "1626169",
+        "name": "Coleman's Deli",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6537263,
+          53.3307227
+        ]
+      },
+      "id": "node/2462710469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2479364024",
+        "addr:city": "Hope Valley",
+        "addr:housenumber": "8",
+        "addr:postcode": "S33 6RD",
+        "addr:street": "Castleton Road",
+        "addr:suburb": "Hope",
+        "amenity": "cafe",
+        "fhrs:id": "1258938",
+        "name": "The Courtyard Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7432852,
+          53.3484098
+        ]
+      },
+      "id": "node/2479364024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2479364025",
+        "addr:city": "Hope Valley",
+        "addr:housenumber": "18",
+        "addr:postcode": "S33 6RD",
+        "addr:street": "Castleton Road",
+        "addr:suburb": "Hope",
+        "amenity": "cafe",
+        "description": "Small roastery coffee, local and seasonal menu, pop-up food evenings.",
+        "fhrs:id": "1258708",
+        "name": "Grasshopper Cafe",
+        "old_name": "Woodbine Cafe",
+        "source:addr:postcode": "FHRS Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7439199,
+          53.348392
+        ]
+      },
+      "id": "node/2479364025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2607751793",
+        "addr:city": "High Peak",
+        "addr:country": "GB",
+        "addr:housenumber": "34",
+        "addr:postcode": "SK22 3ES",
+        "addr:street": "Union Road",
+        "addr:suburb": "New Mills",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop;cafe",
+        "diet:non-vegetarian": "yes",
+        "diet:vegan": "yes",
+        "diet:vegetarian_1": "yes",
+        "name": "On The Bridge",
+        "opening_hours": "We-Sa 09:00-16:00; Su 10:00-16:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0011603,
+          53.3642667
+        ]
+      },
+      "id": "node/2607751793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2637392916",
+        "addr:city": "Hope Valley",
+        "addr:postcode": "S32 5RB",
+        "addr:street": "The Square",
+        "addr:suburb": "Eyam",
+        "amenity": "cafe",
+        "diet:vegetarian": "yes",
+        "fhrs:id": "1626350",
+        "name": "Village Green",
+        "old_name": "Peak Pantry",
+        "opening_hours": "Mo,Tu,Th,Fr 09:30-03:30, Sa,Su 09:00-16:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "source": "survey",
+        "source:postcode": "FHRS Open Data",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6709559,
+          53.2842558
+        ]
+      },
+      "id": "node/2637392916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2838613470",
+        "amenity": "cafe",
+        "contact:phone": "+44 1335 310441",
+        "name": "Rivendale Stables Cafe",
+        "opening_hours": "09:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.76005,
+          53.1061775
+        ]
+      },
+      "id": "node/2838613470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2857050021",
+        "amenity": "cafe",
+        "name": "Lee House Farm Tea Room & Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8607573,
+          53.0617886
+        ]
+      },
+      "id": "node/2857050021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3161665577",
+        "addr:city": "High Peak",
+        "addr:country": "GB",
+        "addr:housenumber": "42a",
+        "addr:postcode": "SK23 7LP",
+        "addr:street": "Market Street",
+        "addr:suburb": "Whaley Bridge",
+        "amenity": "cafe",
+        "contact:facebook": "https://www.facebook.com/TheBridgeBakehouse/",
+        "contact:instagram": "https://www.instagram.com/thebridgebakehouse/",
+        "cuisine": "coffee_shop",
+        "email": "thebridgebakehouse@hotmail.com",
+        "fhrs:id": "1258639",
+        "name": "The Bridge Bakehouse",
+        "operator": "Camilla & Courtney Dignan",
+        "outdoor_seating": "yes",
+        "phone": "+44 1663 734113",
+        "takeaway": "yes",
+        "website": "https://www.thebridgebakehouse.co.uk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9837814,
+          53.3300654
+        ]
+      },
+      "id": "node/3161665577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3161673591",
+        "addr:city": "High Peak",
+        "addr:country": "GB",
+        "addr:housenumber": "30",
+        "addr:postcode": "SK23 7LP",
+        "addr:street": "Market Street",
+        "addr:suburb": "Whaley Bridge",
+        "amenity": "cafe",
+        "contact:facebook": "https://www.facebook.com/thevillagekitchenwb/",
+        "delivery": "no",
+        "fhrs:id": "1258926",
+        "name": "The Village Kitchen",
+        "outdoor_seating": "yes",
+        "phone": "+44 1663 635003",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9838552,
+          53.3297317
+        ]
+      },
+      "id": "node/3161673591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3227855022",
+        "addr:city": "Matlock",
+        "addr:housename": "The Old Smithy",
+        "addr:postcode": "DE4 2ND",
+        "addr:street": "Chapel Hill",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "fhrs:id": "1725330",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "The Old Smithy",
+        "opening_hours": "Tu 09:30-16:00; We 09:30-16:00, 17:30-20:30; Th-Su 09:30-16:00",
+        "outdoor_seating": "yes",
+        "phone": "+44 1629 258 927",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6041509,
+          53.2038648
+        ]
+      },
+      "id": "node/3227855022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3232844609",
+        "amenity": "cafe",
+        "name": "Flash Bar Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9532293,
+          53.2077309
+        ]
+      },
+      "id": "node/3232844609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3362041343",
+        "addr:city": "Buxton",
+        "addr:postcode": "SK17 0AN",
+        "addr:street": "Mill Lane",
+        "addr:unit": "1",
+        "addr:village": "Hartington",
+        "amenity": "cafe",
+        "fhrs:id": "1626446",
+        "name": "Hartington Farm Shop & Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8103185,
+          53.1397447
+        ]
+      },
+      "id": "node/3362041343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3401948657",
+        "addr:city": "Hope Valley",
+        "addr:postcode": "S33 0DY",
+        "addr:street": "Main Road",
+        "addr:suburb": "Bamford",
+        "amenity": "cafe",
+        "fhrs:id": "1258649",
+        "food": "yes",
+        "name": "The Rest Cafe",
+        "website": "https://www.anglers.rest/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6890426,
+          53.3496817
+        ]
+      },
+      "id": "node/3401948657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3595033527",
+        "addr:city": "High Peak",
+        "addr:country": "GB",
+        "addr:housenumber": "7",
+        "addr:postcode": "SK22 2JE",
+        "addr:street": "Church Street",
+        "addr:suburb": "Hayfield",
+        "alt_name": "Millie's Cafe & Chocolatier",
+        "amenity": "cafe",
+        "fhrs:id": "1258855",
+        "name": "Millie's Bed & Breakfast",
+        "rooms": "yes",
+        "source:addr": "FHRS Open Data",
+        "tourism": "guest_house",
+        "website": "https://www.millieshayfield.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9455261,
+          53.3792216
+        ]
+      },
+      "id": "node/3595033527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3673747119",
+        "addr:city": "Hope Valley",
+        "addr:parentstreet": "Church Street",
+        "addr:postcode": "S32 5QW",
+        "addr:street": "Eyam Hall Craft Centre",
+        "addr:suburb": "Eyam",
+        "addr:unit": "5",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "no",
+        "name": "Eyam Hall Coffee & Cake",
+        "outdoor_seating": "yes",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6769681,
+          53.2851787
+        ]
+      },
+      "id": "node/3673747119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3673747120",
+        "addr:city": "Hope Valley",
+        "addr:parentstreet": "Church Street",
+        "addr:postcode": "S32 5QW",
+        "addr:street": "Eyam Hall Craft Centre",
+        "addr:suburb": "Eyam",
+        "amenity": "cafe",
+        "name": "Eyam Hall Buttery",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6771274,
+          53.2849308
+        ]
+      },
+      "id": "node/3673747120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3673749675",
+        "addr:city": "Hope Valley",
+        "addr:parentstreet": "Church Street",
+        "addr:postcode": "S32 5QW",
+        "addr:street": "Eyam Hall Craft Centre",
+        "addr:suburb": "Eyam",
+        "alt_name": "Stables Restaurant",
+        "amenity": "cafe",
+        "building:levels": "1",
+        "layer": "1",
+        "level": "1",
+        "name": "Raphael's Tea Rooms",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6770549,
+          53.2848875
+        ]
+      },
+      "id": "node/3673749675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3778238127",
+        "addr:city": "Hope Valley",
+        "addr:postcode": "S33 8WA",
+        "addr:street": "Mam Tor Road",
+        "addr:suburb": "Castleton",
+        "amenity": "cafe",
+        "name": "Blue John Cafe",
+        "old_fhrs:id": "691434"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8043777,
+          53.3466899
+        ]
+      },
+      "id": "node/3778238127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3791851544",
+        "addr:postcode": "SK17 8JT",
+        "addr:street": "Queen Street",
+        "amenity": "cafe",
+        "fixme": "check both location & address",
+        "name": "Peak District Parlour",
+        "old_fhrs:id": "258465",
+        "source": "survey",
+        "source:addr": "FHRS Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7740898,
+          53.2778484
+        ]
+      },
+      "id": "node/3791851544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3875303883",
+        "addr:city": "Bakewell",
+        "addr:housenumber": "3",
+        "addr:postcode": "DE45 1HG",
+        "addr:street": "Market Street",
+        "alt_name": "River & Roast",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "fhrs:id": "1776079",
+        "level": "1",
+        "name": "Upstairs Cafe & Gift Shop",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6728096,
+          53.2133472
+        ]
+      },
+      "id": "node/3875303883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3898847043",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5800686,
+          53.1127824
+        ]
+      },
+      "id": "node/3898847043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4128097506",
+        "addr:city": "Buxton",
+        "addr:postcode": "SK17 8JZ",
+        "addr:street": "Cherry Tree Square",
+        "addr:village": "Tideswell",
+        "amenity": "cafe",
+        "fhrs:id": "1626386",
+        "name": "The Cherry Tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7746825,
+          53.2760962
+        ]
+      },
+      "id": "node/4128097506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4130611363",
+        "addr:city": "Bakewell",
+        "addr:postcode": "DE45 1DS",
+        "addr:street": "Bridge Street",
+        "amenity": "cafe",
+        "diet:vegetarian": "yes",
+        "fhrs:id": "1626399",
+        "indoor_seating": "yes",
+        "name": "The Lime Lounge Coffee House",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6737426,
+          53.2141656
+        ]
+      },
+      "id": "node/4130611363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4135760795",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "The Tea Chest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9150814,
+          53.259223
+        ]
+      },
+      "id": "node/4135760795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4143973292",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "The Parlour",
+        "opening_hours": "Mo-Su 11:30-16:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6083739,
+          53.2286176
+        ]
+      },
+      "id": "node/4143973292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4145202245",
+        "addr:city": "Ashbourne",
+        "addr:postcode": "DE6 2AF",
+        "addr:village": "Wetton",
+        "amenity": "cafe",
+        "fhrs:id": "1259903",
+        "name": "Old School Tea Room",
+        "source:addr:postcode": "FHRS Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8397189,
+          53.0957355
+        ]
+      },
+      "id": "node/4145202245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4331931156",
+        "addr:city": "Buxton",
+        "addr:housenumber": "20-22",
+        "addr:postcode": "SK17 6DE",
+        "addr:street": "Spring Gardens",
+        "amenity": "cafe",
+        "brand": "Caffè Nero",
+        "brand:wikidata": "Q675808",
+        "brand:wikipedia": "en:Caffè Nero",
+        "check_date": "2026-02-28",
+        "check_date:opening_hours": "2026-02-28",
+        "cuisine": "coffee_shop",
+        "fhrs:id": "1259139",
+        "name": "Caffè Nero",
+        "opening_hours": "Mo-Sa 07:30-18:30; Su 08:00-18:00",
+        "takeaway": "yes",
+        "website": "https://www.caffenero.com/uk/stores/buxton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9121058,
+          53.2589625
+        ]
+      },
+      "id": "node/4331931156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4331931158",
+        "addr:city": "Buxton",
+        "addr:housenumber": "50",
+        "addr:postcode": "SK17 6BZ",
+        "addr:street": "Spring Gardens",
+        "amenity": "cafe",
+        "fhrs:id": "1903721",
+        "name": "The Chakra Lounge",
+        "opening_hours": "Mo-Fr 08:30-17:00; Sa 08:30-18:00; Su 09:00-17:00",
+        "outdoor_seating": "yes",
+        "phone": "+44 1298 938280",
+        "website": "https://www.thechakralounge.co.uk/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9107096,
+          53.259203
+        ]
+      },
+      "id": "node/4331931158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4331931173",
+        "addr:city": "Buxton",
+        "addr:housenumber": "95",
+        "addr:postcode": "SK17 6BP",
+        "addr:street": "Spring Gardens",
+        "amenity": "cafe",
+        "contact:tripadvisor": "https://www.tripadvisor.ca/Restaurant_Review-g190756-d3586140-Reviews-Stars_Cafe-Buxton_Derbyshire_England.html",
+        "fhrs:id": "1260418",
+        "name": "Stars Cafe",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9088503,
+          53.2594955
+        ]
+      },
+      "id": "node/4331931173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4337343812",
+        "addr:city": "Hope Valley",
+        "addr:postcode": "S33 8WH",
+        "addr:street": "Cross Street",
+        "addr:suburb": "Castleton",
+        "amenity": "cafe",
+        "name": "Rose Tea Rooms",
+        "old_fhrs:id": "389658",
+        "source": "survey",
+        "source:addr": "FHRS Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.775925,
+          53.3432344
+        ]
+      },
+      "id": "node/4337343812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4381112406",
+        "addr:city": "Hadfield",
+        "addr:postcode": "SK13 1AJ",
+        "addr:street": "Station Road",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "fhrs:id": "1259196",
+        "name": "Twig Coffee House",
+        "opening_hours": "Mo-Fr 06:00-18:00; Sa 08:30-17:00; Su 09:30-15:00",
+        "source:addr": "FHRS Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9673024,
+          53.4620971
+        ]
+      },
+      "id": "node/4381112406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4721903992",
+        "addr:city": "Hope Valley",
+        "addr:postcode": "S32 1EG",
+        "addr:street": "Castleton Road",
+        "addr:suburb": "Bamford",
+        "amenity": "cafe",
+        "name": "Riverside Cafe",
+        "name:en": "Riverside Cafe",
+        "opening_hours": "Mo-Fr 10:00-16:00; Sa 10:00-16:30; Su 10:00-15:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6815437,
+          53.3348815
+        ]
+      },
+      "id": "node/4721903992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4771187400",
+        "addr:city": "Buxton",
+        "addr:housenumber": "4",
+        "addr:postcode": "SK17 6DR",
+        "addr:street": "Terrace Road",
+        "amenity": "cafe",
+        "contact:instagram": "https://www.instagram.com/green_pavilion_cafe/",
+        "fhrs:id": "1258658",
+        "name": "The Cafe at The Green Pavilion",
+        "old_fhrs:id": "389546",
+        "opening_hours": "Mo-Su 09:00-17:00",
+        "phone": "+44 1298 77480",
+        "website": "https://www.greenpavilioncafe.co.uk/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9127483,
+          53.2586744
+        ]
+      },
+      "id": "node/4771187400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5122621479",
+        "addr:city": "Buxton",
+        "addr:housenumber": "1",
+        "addr:postcode": "SK17 6HE",
+        "addr:street": "West Road",
+        "amenity": "cafe",
+        "fhrs:id": "1258613",
+        "name": "Five Ways Cafe",
+        "source": "survey",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9150946,
+          53.2531244
+        ]
+      },
+      "id": "node/5122621479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5175108753",
+        "addr:city": "Hadfield",
+        "addr:housenumber": "108",
+        "addr:postcode": "SK13 1AJ",
+        "addr:street": "Station Road",
+        "amenity": "cafe",
+        "cuisine": "sandwich",
+        "name": "Lorraine's Sandwich Bar",
+        "old_fhrs:id": "997514",
+        "opening_hours": "Mo-Fr 08:30-14:30,Sa 08:30-13:30",
+        "outdoor_seating": "yes",
+        "phone": "+44 7435158861"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9676611,
+          53.4624143
+        ]
+      },
+      "id": "node/5175108753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5175187500",
+        "addr:city": "Glossop",
+        "addr:postcode": "SK13 7QE",
+        "addr:street": "Cemetery Road",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "fhrs:id": "1258632",
+        "name": "The Coffee Shop at Wimberry Hill",
+        "opening_hours": "Mo-Sa 09:30-17:00; Su 10:00-16:00",
+        "phone": "+44 1457 865316"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9471534,
+          53.4546168
+        ]
+      },
+      "id": "node/5175187500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5213077918",
+        "amenity": "cafe",
+        "name": "Laura's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9502731,
+          53.4439408
+        ]
+      },
+      "id": "node/5213077918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5542007217",
+        "addr:city": "Sheffield",
+        "addr:postcode": "S6 6LB",
+        "addr:street": "Mill Lee Lane",
+        "amenity": "cafe",
+        "fhrs:id": "437034",
+        "name": "The Schoolrooms",
+        "source:addr": "FHRS Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6068323,
+          53.4229327
+        ]
+      },
+      "id": "node/5542007217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5575127541",
+        "amenity": "cafe",
+        "toilets": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8878585,
+          53.2300173
+        ]
+      },
+      "id": "node/5575127541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5908020908",
+        "addr:city": "Glossop",
+        "addr:housenumber": "53A",
+        "addr:postcode": "SK13 8PN",
+        "addr:street": "High Street East",
+        "amenity": "cafe",
+        "name": "Cafe Light",
+        "source": "survey",
+        "source:addr": "fhrs opendata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9464022,
+          53.443418
+        ]
+      },
+      "id": "node/5908020908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6009555589",
+        "addr:city": "Bakewell",
+        "addr:postcode": "DE45 1ES",
+        "addr:street": "Orme Court",
+        "addr:unit": "8A",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop;tea",
+        "fhrs:id": "1627011",
+        "internet_access": "no",
+        "internet_access:fee": "no",
+        "name": "Gallery Cafe",
+        "opening_hours": "Sa-Mo 08:30-16:00; Tu-Fr 09:00-16:00; PH off",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "source:addr": "FHRS Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6741627,
+          53.2127645
+        ]
+      },
+      "id": "node/6009555589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6066702783",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8716142,
+          53.2244848
+        ]
+      },
+      "id": "node/6066702783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6421165785",
+        "addr:city": "Bakewell",
+        "addr:postcode": "DE45 1EU",
+        "addr:street": "Water Lane",
+        "amenity": "cafe",
+        "name": "Coffee & Pastries"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6742348,
+          53.2133185
+        ]
+      },
+      "id": "node/6421165785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6423323992",
+        "addr:city": "Buxton",
+        "addr:housenumber": "16-18",
+        "addr:postcode": "SK17 6DE",
+        "addr:street": "Spring Gardens",
+        "alt_name": "Hargreaves Edwardian Tearoom",
+        "amenity": "cafe",
+        "name": "Hargreaves Tea Rooms",
+        "opening_hours": "Mo-Sa 9:00-17:00; Su 11:00-15:00",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+44 1298 23083",
+        "website": "https://www.hargreavesofbuxton.com/our-cafe-tea-rooms",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9121872,
+          53.2589013
+        ]
+      },
+      "id": "node/6423323992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6423440585",
+        "addr:city": "Buxton",
+        "addr:housenumber": "6",
+        "addr:postcode": "SK17 6AZ",
+        "addr:street": "The Square",
+        "amenity": "cafe",
+        "fhrs:id": "1259230",
+        "name": "No. 6 The Square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9159466,
+          53.2583943
+        ]
+      },
+      "id": "node/6423440585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6430554931",
+        "addr:city": "Bakewell",
+        "addr:postcode": "DE45 1EU",
+        "addr:street": "Water Lane",
+        "amenity": "cafe",
+        "cuisine": "tea;cake;sandwich;breakfast;coffee_shop;local",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Byways",
+        "old_fhrs:id": "258265",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6743536,
+          53.2134356
+        ]
+      },
+      "id": "node/6430554931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6482942016",
+        "amenity": "cafe",
+        "name": "Hollinsclough Chapel Hall",
+        "opening_hours": "May-Aug Su 11:00-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9042927,
+          53.195862
+        ]
+      },
+      "id": "node/6482942016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6518229235",
+        "addr:postcode": "SK17 8QP",
+        "addr:street": "Post Office Row",
+        "addr:village": "Litton",
+        "amenity": "cafe",
+        "fhrs:id": "1627055",
+        "name": "The Old Smithy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7555847,
+          53.2728823
+        ]
+      },
+      "id": "node/6518229235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6580173531",
+        "addr:city": "High Peak",
+        "addr:country": "GB",
+        "addr:postcode": "SK23 0QT",
+        "addr:street": "Rushup Lane",
+        "addr:suburb": "Rushup",
+        "amenity": "cafe",
+        "fhrs:id": "1259064",
+        "name": "No Car Cafe",
+        "source:addr": "FHRS Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8582626,
+          53.3365798
+        ]
+      },
+      "id": "node/6580173531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6855301887",
+        "addr:city": "Miller's Dale",
+        "addr:postcode": "SK17 8SN",
+        "amenity": "cafe",
+        "fhrs:id": "1258869",
+        "internet_access": "wlan",
+        "name": "The Refreshment Room",
+        "opening_hours": "Mo-Fr 09:30-16:00, Sa-Su 9:30-17:00",
+        "outdoor_seating": "yes",
+        "source:addr": "FHRS Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.794079,
+          53.2560488
+        ]
+      },
+      "id": "node/6855301887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7175444489",
+        "addr:city": "High Peak",
+        "addr:country": "GB",
+        "addr:housename": "The Torrs",
+        "addr:housenumber": "34",
+        "addr:postcode": "SK22 4AE",
+        "addr:street": "Market Street",
+        "addr:suburb": "New Mills",
+        "amenity": "cafe",
+        "fhrs:id": "1258683",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "TheTorrs",
+        "name": "Archie's",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0019521,
+          53.3670005
+        ]
+      },
+      "id": "node/7175444489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7788614600",
+        "amenity": "cafe",
+        "name": "Hartington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.777856,
+          53.146486
+        ]
+      },
+      "id": "node/7788614600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7823414955",
+        "addr:street": "Tagg Lane",
+        "addr:village": "Monyash",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop;ice_cream",
+        "fhrs:id": "1626588",
+        "name": "Tagg Lane Dairy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8001829,
+          53.1905459
+        ]
+      },
+      "id": "node/7823414955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7918333811",
+        "amenity": "cafe",
+        "cuisine": "ice_cream",
+        "name": "Hope Valley Ice Cream",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6668224,
+          53.3370369
+        ]
+      },
+      "id": "node/7918333811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8271164638",
+        "amenity": "cafe",
+        "name": "Millies Tea Trailer",
+        "opening_hours": "Sa-Su 11:00-15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7879332,
+          53.3531014
+        ]
+      },
+      "id": "node/8271164638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8833630217",
+        "amenity": "cafe",
+        "name": "Clockwork Cafe",
+        "survey:date": "2021-06-13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0019099,
+          53.3672369
+        ]
+      },
+      "id": "node/8833630217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8975368576",
+        "amenity": "cafe",
+        "description": "Direct access from the Monsal trail  Open every day with delicious cakes from The Bakehouse, and not forgetting the famous sausage rolls made from meat from The Thornbridge Smallholding",
+        "name": "Thornbridge Quackers Café",
+        "opening_hours": "Mo-Su 10:00-16:00",
+        "outdoor_seating": "yes",
+        "phone": "+44 7771 588981",
+        "website": "https://www.thornbridgehall.co.uk/gardensandcafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7029098,
+          53.2363226
+        ]
+      },
+      "id": "node/8975368576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9316271733",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Cafe at the Cavern",
+        "website": "https://poolescavern.co.uk/cafe-and-shop/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9262789,
+          53.2500646
+        ]
+      },
+      "id": "node/9316271733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9885878974",
+        "amenity": "cafe",
+        "check_date:opening_hours": "2025-09-08",
+        "name": "Dolly's Cafe",
+        "opening_hours": "Tu-Th 09:00-14:00; Fr 08:00-14:00; Sa 08:00-13:00; Su,Mo off",
+        "opening_hours:signed": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9695689,
+          53.4641184
+        ]
+      },
+      "id": "node/9885878974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10209589988",
+        "addr:city": "Buxton",
+        "addr:housenumber": "9",
+        "addr:postcode": "SK17 6AT",
+        "addr:street": "Cavendish Circus",
+        "amenity": "cafe",
+        "name": "Wild Bloom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9148704,
+          53.2595716
+        ]
+      },
+      "id": "node/10209589988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10315244627",
+        "amenity": "cafe",
+        "changing_table": "no",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Castleton Coffee Co",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7748231,
+          53.3439553
+        ]
+      },
+      "id": "node/10315244627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10570772756",
+        "amenity": "cafe",
+        "name": "The Kiosk",
+        "operator": "National Trust",
+        "takeaway": "only"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0574738,
+          53.3386259
+        ]
+      },
+      "id": "node/10570772756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10706777847",
+        "amenity": "cafe",
+        "name": "Granny May’s Hope Tea Rooms",
+        "note": "Part of, but separate from, Old Hall Hotel.",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7420728,
+          53.348293
+        ]
+      },
+      "id": "node/10706777847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10719016257",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.803584,
+          53.3455343
+        ]
+      },
+      "id": "node/10719016257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10746659945",
+        "addr:city": "Sheffield",
+        "addr:postcode": "S10 4QX",
+        "addr:street": "Soughley Lane",
+        "addr:substreet": "Wyming Brook Farm",
+        "addr:suburb": "Fulwood",
+        "amenity": "cafe",
+        "contact:facebook": "https://www.facebook.com/people/blue_moo_cafe/100066623112551/",
+        "cuisine": "snack;coffee_shop",
+        "fhrs:id": "1348875",
+        "indoor_seating": "no",
+        "name": "Blue Moo Cafe",
+        "outdoor_seating": "yes",
+        "source:addr": "FHRS Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5948766,
+          53.3682527
+        ]
+      },
+      "id": "node/10746659945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10933944781",
+        "addr:city": "Bakewell",
+        "addr:postcode": "DE45 1BZ",
+        "addr:street": "Buxton Road",
+        "amenity": "cafe",
+        "cuisine": "indian",
+        "diet:gluten_free": "yes",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "fhrs:id": "1626809",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "The Chakra Lounge",
+        "toilets": "yes",
+        "toilets:access": "customers",
+        "toilets:wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6767842,
+          53.2132152
+        ]
+      },
+      "id": "node/10933944781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11144921067",
+        "addr:city": "Bakewell",
+        "addr:housename": "6",
+        "addr:postcode": "DE45 1EE",
+        "addr:street": "Hebden Court",
+        "amenity": "cafe",
+        "email": "info@thelavendertearooms.co.uk",
+        "facebook": "https://www.facebook.com/thelavendertearooms",
+        "fhrs:id": "1883978",
+        "name": "The Lavendar Tea Rooms",
+        "opening_hours": "Mo-We 10:00-16:00; Fr-Sa 10:00-16:00; Su 11:00-16:00",
+        "outdoor_seating": "yes",
+        "phone": "+44 1629 818241"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6756516,
+          53.2123366
+        ]
+      },
+      "id": "node/11144921067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11180993218",
+        "addr:city": "Charlesworth",
+        "addr:housenumber": "7a",
+        "addr:postcode": "SK13 5EY",
+        "addr:street": "Marple Road",
+        "amenity": "cafe",
+        "cuisine": "sandwich;breakfast;cake;coffee_shop",
+        "drive_through": "no",
+        "fhrs:id": "1832176",
+        "name": "Bake & Muffin",
+        "opening_hours": "Tu-Sa 09:00-15:00",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+44 1457 862825",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9934888,
+          53.4327137
+        ]
+      },
+      "id": "node/11180993218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11456212118",
+        "addr:city": "Buxton",
+        "addr:housenumber": "12",
+        "addr:postcode": "SK17 6BN",
+        "addr:street": "Hardwick Street",
+        "amenity": "cafe",
+        "fhrs:id": "1669072",
+        "name": "Buxton Pudding Emporium",
+        "opening_hours": "Mo-Sa 10:00-17:00; Su 10:00-16:00",
+        "phone": "+44 1298 211311",
+        "website": "https://www.thebuxtonpuddingemporium.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9116077,
+          53.2588475
+        ]
+      },
+      "id": "node/11456212118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11500949644",
+        "amenity": "cafe",
+        "name": "Brooks Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7405391,
+          53.3266256
+        ]
+      },
+      "id": "node/11500949644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11607967485",
+        "addr:city": "Bakewell",
+        "addr:county": "Derbyshire",
+        "addr:postcode": "DE45 1DS",
+        "addr:street": "Market Street",
+        "amenity": "cafe",
+        "check_date": "2024-07-12",
+        "cuisine": "coffee_shop",
+        "fhrs:id": "1663835",
+        "name": "Insomnia",
+        "source:addr": "FHRS Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6730969,
+          53.2130655
+        ]
+      },
+      "id": "node/11607967485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11944517572",
+        "addr:housenumber": "10",
+        "addr:place": "Tintwistle",
+        "addr:street": "New Road",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Pixie Bakes",
+        "opening_hours": "Tu-Fr 09:00-16:00; Sa 10:00-15:00; Su,Mo off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9719577,
+          53.4716298
+        ]
+      },
+      "id": "node/11944517572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11951899112",
+        "addr:city": "Bakewell",
+        "addr:parentstreet": "Water Street",
+        "addr:place": "Diamond Court",
+        "addr:postcode": "DE45 1EW",
+        "addr:unit": "1-1A",
+        "amenity": "cafe",
+        "fhrs:id": "1792028",
+        "name": "Secret Garden Cafe Bistro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6748766,
+          53.2128763
+        ]
+      },
+      "id": "node/11951899112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12049602909",
+        "amenity": "cafe",
+        "check_date": "2025-12-25",
+        "check_date:opening_hours": "2025-12-25",
+        "name": "The Honey Bun Cafe",
+        "opening_hours:signed": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6741664,
+          53.2130449
+        ]
+      },
+      "id": "node/12049602909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12049602912",
+        "addr:city": "Bakewell",
+        "addr:county": "Derbyshire",
+        "addr:housenumber": "3A",
+        "addr:postcode": "DE45 1HA",
+        "addr:street": "Portland Square",
+        "amenity": "cafe",
+        "check_date": "2024-07-12",
+        "fhrs:id": "1626315",
+        "name": "Relish",
+        "source:addr": "FHRS Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6737702,
+          53.2132714
+        ]
+      },
+      "id": "node/12049602912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12051846700",
+        "addr:city": "Bakewell",
+        "addr:postcode": "DE45 1UR",
+        "addr:street": "Fountain Square",
+        "addr:village": "Youlgreave",
+        "amenity": "cafe",
+        "cuisine": "british;breakfast",
+        "email": "kitchen.fountainviewbakery@gmail.com",
+        "name": "Fountain View Bakery",
+        "opening_hours": "We-Su 09:00-14:00",
+        "opening_hours:breakfast": "Sa-Su 09:00-12:00",
+        "opening_hours:lunch": "Sa-Su 09:00-13:45",
+        "opening_hours:pizza": "Fr 18:00-20:00",
+        "phone": "+441629636518",
+        "start_date": "2022",
+        "website": "https://www.facebook.com/fountainviewbakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6865205,
+          53.175048
+        ]
+      },
+      "id": "node/12051846700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12685710768",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Twig Coffee House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9487079,
+          53.4444064
+        ]
+      },
+      "id": "node/12685710768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12731769673",
+        "addr:city": "Glossop",
+        "addr:housenumber": "13",
+        "addr:postcode": "SK13 8HT",
+        "addr:street": "Victoria Street",
+        "amenity": "cafe",
+        "name": "The Cafeteria",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.949519,
+          53.4419833
+        ]
+      },
+      "id": "node/12731769673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12731769682",
+        "amenity": "cafe",
+        "brand": "Marks & Spencer",
+        "brand:short": "M&S",
+        "brand:wikidata": "Q714491",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "name": "M&S Café",
+        "outdoor_seating": "no",
+        "takeaway": "yes",
+        "website": "https://www.marksandspencer.com/stores/glossop-simply-food-1134"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9480248,
+          53.4427868
+        ]
+      },
+      "id": "node/12731769682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12732147996",
+        "addr:city": "Glossop",
+        "addr:housenumber": "59",
+        "addr:postcode": "SK13 8AZ",
+        "addr:street": "High Street West",
+        "amenity": "cafe",
+        "fhrs:id": "1273398",
+        "name": "Canella"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.952215,
+          53.4433251
+        ]
+      },
+      "id": "node/12732147996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12732147998",
+        "addr:city": "Glossop",
+        "addr:housenumber": "55",
+        "addr:postcode": "SK13 8AZ",
+        "addr:street": "High Street West",
+        "amenity": "cafe",
+        "fhrs:id": "1295390",
+        "name": "A'bout Thyme"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9520555,
+          53.4433263
+        ]
+      },
+      "id": "node/12732147998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12732161808",
+        "addr:city": "Glossop",
+        "addr:postcode": "SK13 8BP",
+        "addr:street": "Norfolk Square",
+        "amenity": "cafe",
+        "fhrs:id": "1765185",
+        "name": "Anason Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9503938,
+          53.4435644
+        ]
+      },
+      "id": "node/12732161808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12732181277",
+        "amenity": "cafe",
+        "brand": "Tesco",
+        "brand:wikidata": "Q487494",
+        "cuisine": "coffee_shop",
+        "name": "Tesco Café",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9614435,
+          53.4449756
+        ]
+      },
+      "id": "node/12732181277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12753018098",
+        "amenity": "cafe",
+        "name": "Bank Top Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6460717,
+          53.1386875
+        ]
+      },
+      "id": "node/12753018098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12926266311",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9400968,
+          53.3398998
+        ]
+      },
+      "id": "node/12926266311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12977417801",
+        "addr:street": "Railway Street",
+        "amenity": "cafe",
+        "name": "Glossop Garden Centre Cafe",
+        "opening_hours": "Mo-Fr 09:30-15:30; Sa 09:30-16:30; Su 10:00-15:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9516382,
+          53.4450497
+        ]
+      },
+      "id": "node/12977417801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12983007444",
+        "amenity": "cafe",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Torr Vale Tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0027494,
+          53.3647049
+        ]
+      },
+      "id": "node/12983007444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13094738182",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Bohemian Bus Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9912686,
+          53.3521029
+        ]
+      },
+      "id": "node/13094738182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13151613450",
+        "amenity": "cafe",
+        "name": "Amore Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9100378,
+          53.3247358
+        ]
+      },
+      "id": "node/13151613450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13151633886",
+        "amenity": "cafe",
+        "name": "The Picnic Basket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9175796,
+          53.3228217
+        ]
+      },
+      "id": "node/13151633886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13188589607",
+        "addr:city": "Bakewell",
+        "addr:parentstreet": "Buxton Road",
+        "addr:place": "Riverside Units",
+        "addr:postcode": "DE45 1GS",
+        "addr:unit": "11",
+        "amenity": "cafe",
+        "fhrs:id": "1626873",
+        "name": "Tin Hut Cafe",
+        "website": "https://www.thetinhut.cafe/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.684305,
+          53.2178869
+        ]
+      },
+      "id": "node/13188589607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13326127286",
+        "amenity": "cafe",
+        "brand": "Costa",
+        "brand:wikidata": "Q608845",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Costa",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9578001,
+          53.4441618
+        ]
+      },
+      "id": "node/13326127286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13404411943",
+        "addr:city": "Bakewell",
+        "addr:housenumber": "12",
+        "addr:postcode": "DE45 1EE",
+        "addr:street": "Matlock Street",
+        "amenity": "cafe",
+        "fhrs:id": "1626754",
+        "name": "Graze",
+        "opening_hours": "Mo-Sa 09:00-16:30; Su 10:00-16:30; PH off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6755519,
+          53.2125473
+        ]
+      },
+      "id": "node/13404411943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13404463028",
+        "addr:city": "Bakewell",
+        "addr:postcode": "DE45 1DS",
+        "addr:street": "Bridge Street",
+        "amenity": "cafe",
+        "fhrs:id": "1626340",
+        "name": "Frederick's Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6744496,
+          53.213706
+        ]
+      },
+      "id": "node/13404463028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13404480643",
+        "addr:city": "Bakewell",
+        "addr:housename": "Ash Cottage",
+        "addr:postcode": "DE45 1ES",
+        "addr:street": "Granby Road",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "fhrs:id": "1827430",
+        "name": "Badeca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6744777,
+          53.2129559
+        ]
+      },
+      "id": "node/13404480643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13434569949",
+        "amenity": "cafe",
+        "contact:instagram": "https://www.instagram.com/dandelionbuxton/",
+        "cuisine": "coffee_shop",
+        "name": "Dandelion",
+        "opening_hours": "Mo,Tu,Fr,Sa 08:00-17:00; Su 10:00-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.913092,
+          53.259319
+        ]
+      },
+      "id": "node/13434569949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13451030537",
+        "addr:city": "Staffordshire Moorlands",
+        "addr:housename": "Pipistrelle Cafe Grindon",
+        "addr:postcode": "ST13 7TP",
+        "addr:street": "Weag's Bridge Road",
+        "amenity": "cafe",
+        "contact:facebook": "https://www.facebook.com/p/Pipistrelle-Caf%C3%A9-Grindon-61564182991390/?locale=en_GB",
+        "cuisine": "coffee_shop;tea;soup;ice_cream;juice;regional",
+        "description": "🏚️Our family has transformed an old barn into a cosy café ☕️🍰 serving home-made and locally sourced produce, with sustainability and quality at its heart. Open weekends for barista coffee, homemade cakes, soup with homemade bread and more...",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Pipistrelle Cafe Grindon",
+        "opening_hours": "Sat-Sun 9am-5pm",
+        "toilets:menstrual_products": "yes",
+        "website": "https://pipistrellecafe.wordpress.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8664593,
+          53.0862899
+        ]
+      },
+      "id": "node/13451030537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13607879497",
+        "addr:city": "Buxton",
+        "addr:housenumber": "26",
+        "addr:postcode": "SK17 6DH",
+        "addr:street": "Hardwick Street",
+        "amenity": "cafe",
+        "contact:tripadvisor": "https://www.tripadvisor.co.uk/Restaurant_Review-g190756-d15199388-Reviews-The_Herb_Garden_Vegetarian_bistro-Buxton_Derbyshire_England.html",
+        "diet:gluten_free": "yes",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "fhrs:id": "1258822",
+        "name": "The Herb Garden",
+        "opening_hours": "Tu-Sa 10:00-14:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9122572,
+          53.258431
+        ]
+      },
+      "id": "node/13607879497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13607945197",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "The Source",
+        "opening_hours": "Su 10:15-10:45+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9126059,
+          53.2585658
+        ]
+      },
+      "id": "node/13607945197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13607975822",
+        "addr:city": "Buxton",
+        "addr:housenumber": "5",
+        "addr:postcode": "SK17 6BS",
+        "addr:street": "Bridge Street",
+        "amenity": "cafe",
+        "cuisine": "tea",
+        "fhrs:id": "1669077",
+        "name": "Queenie's Tea Room and Gift Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9083919,
+          53.2596599
+        ]
+      },
+      "id": "node/13607975822"
+    }
+  ]
+}
