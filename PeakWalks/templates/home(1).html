@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Peak Hiking</title>
+        <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+
+    </head>
+
+    <body>
+        <div class="column" id="left">
+            {{ iframe|safe }}
+        </div>
+
+        <div class="column" id="right">
+            <h1>Peak Hikes</h1>
+
+            <div class="settings">
+                <h3>Points of Interest</h3>
+                <form class="poi-select" action="/submit" method="post">
+
+                    <label>pubs</label>
+                    <input type="checkbox" name="poi-pubs" id="poi-pubs" value="poi-pubs"/><br>
+
+                    <label>cafes</label>
+                    <input type="checkbox" name="poi-cafes"/><br>
+
+                    <label>viewpoints</label>
+                    <input type="checkbox" name="poi-viewpoints"/><br>
+
+                    <label>historic</label>
+                    <input type="checkbox" name="poi-historic"/><br>
+
+                    <label>villages</label>
+                    <input type="checkbox" name="poi-villages"/><br>
+
+                    <label>other</label>
+                    <input type="checkbox" name="poi-other"/><br>
+
+                    <input type="submit" value="Submit">
+                </form>
+            </div>
+        </div>
+        <script src="/static/serve.js" charset="utf-8"></script>
+    </body>
+</html>
