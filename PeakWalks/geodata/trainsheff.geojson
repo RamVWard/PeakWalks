@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-06-21T17:33:20Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4195983684",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Dore and Totley",
+        "naptan:AtcoCode": "9100DORE",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/dor/",
+        "network:wikidata": "Q85789775",
+        "operator": "Northern Trains",
+        "operator:website": "https://www.northernrailway.co.uk/stations/dore-totley",
+        "operator:wikidata": "Q85789775",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "DOR",
+        "train": "yes",
+        "wikidata": "Q2552687",
+        "wikipedia": "en:Dore & Totley railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5153161,
+          53.3275706
+        ]
+      },
+      "id": "node/4195983684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5784212748",
+        "listed_status": "Grade II",
+        "name": "Sheffield",
+        "naptan:AtcoCode": "9100SHEFFLD",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/shf/",
+        "network:wikidata": "Q26334",
+        "operator": "East Midlands Railway",
+        "operator:wikidata": "Q65090907",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref:DB": "XKSH",
+        "ref:crs": "SHF",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1862179",
+        "wikipedia": "en:Sheffield station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4621381,
+          53.3783713
+        ]
+      },
+      "id": "node/5784212748"
+    }
+  ]
+}

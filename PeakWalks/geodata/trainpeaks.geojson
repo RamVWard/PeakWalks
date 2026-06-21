@@ -1,0 +1,98 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-06-21T17:33:20Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5424125561",
+        "name": "Hope",
+        "naptan:AtcoCode": "9100HOPD",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/hop/",
+        "network:wikidata": "Q26334",
+        "official_name": "Hope (Derbyshire)",
+        "operator": "Northern Trains",
+        "operator:website": "https://www.northernrailway.co.uk/stations/hope-derbyshire",
+        "operator:wikidata": "Q85789775",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "HOP",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2611272",
+        "wikipedia": "en:Hope railway station (England)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7296279,
+          53.3459832
+        ]
+      },
+      "id": "node/5424125561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6331419599",
+        "name": "Grindleford",
+        "naptan:AtcoCode": "9100GRNDLFD",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/grn/",
+        "network:wikidata": "Q26334",
+        "operator": "Northern Trains",
+        "operator:website": "https://www.northernrailway.co.uk/stations/grindleford",
+        "operator:wikidata": "Q85789775",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "GRN",
+        "source": "NPE",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q4994209",
+        "wikipedia": "en:Grindleford railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6260289,
+          53.3055623
+        ]
+      },
+      "id": "node/6331419599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6331419601",
+        "name": "Edale",
+        "naptan:AtcoCode": "9100EDALE",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/edl/",
+        "network:wikidata": "Q26334",
+        "operator": "Northern Trains",
+        "operator:website": "https://www.northernrailway.co.uk/stations/edale",
+        "operator:wikidata": "Q85789775",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "EDL",
+        "source": "npe",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2859134",
+        "wikipedia": "en:Edale railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8172462,
+          53.3648176
+        ]
+      },
+      "id": "node/6331419601"
+    }
+  ]
+}
